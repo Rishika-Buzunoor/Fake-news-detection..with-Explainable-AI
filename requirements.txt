@@ -1,0 +1,12 @@
+pandas
+numpy
+torch
+torchvision
+transformers
+tokenizers
+accelerate
+shap
+matplotlib
+scikit-learn
+joblib
+ipykernel
